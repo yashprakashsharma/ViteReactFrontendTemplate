@@ -1,5 +1,7 @@
 # React + TypeScript + Vite
 
+*The vast majority of this template arises simply from calling `npm create vite@latest` (see [Getting Started | Vite](https://vitejs.dev/guide/)), and using a React template with Typescript + SWC. The additional minor changes are simply personal preference.*
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
